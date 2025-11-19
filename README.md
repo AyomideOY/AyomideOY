@@ -1,54 +1,76 @@
-# 👋 Hi, I'm Ayomide Oyekola
+# 👋 Hi, I'm **Ayomide Oyekola**
 
-### 📊 Data Analyst | SQL • Excel • Python • Power BI • Tableau • Azure
-
-I am a data analyst passionate about transforming raw data into meaningful insights that support business decision-making.  
-I enjoy working with analytical tools, building dashboards, and uncovering patterns that tell compelling data stories.
+Welcome to my GitHub! I'm a data enthusiast passionate about turning raw data into meaningful insights.  
+I specialize in analytics, dashboard development, automation, and cloud-based data solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Skills & Tools
 
-**Languages & Tools:**  
-- SQL  
-- Excel  
-- Python  
-- Power BI  
-- Tableau  
-- Azure  
+### 📊 **Microsoft Excel**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Advanced formulas (LOOKUPs, INDEX/MATCH, dynamic arrays)  
+- Pivot tables, Power Query, data cleaning  
+- Dashboard creation and VBA automation  
 
 ---
 
-## 📂 Featured Projects
-<!-- Add your project links when ready -->
-- **Project Name 1** – Brief description of your analysis or dashboard.  
-- **Project Name 2** – Brief description of your analysis or model.  
-- **Project Name 3** – Brief description of your insights or workflow.  
-
-*(You can replace these with actual project names and links.)*
+### 📈 **Tableau**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>](https://www.tableau.com/)
+- Interactive dashboards & storytelling  
+- Calculated fields, parameters  
+- Data blending, joins, relationship modeling  
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
-
-> ✏️ Replace **YOUR_USERNAME** with your GitHub username.
-
----
-
-## ⚽ Fun Fact
-When I'm not analyzing data, I enjoy **playing and watching football**.
+### 📊 **Power BI**
+[<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>](https://powerbi.microsoft.com/)
+- DAX data modeling  
+- Interactive reports & dashboards  
+- Power Query ETL  
+- Report publishing & workspace management  
 
 ---
 
-## 📫 Connect With Me
-Feel free to reach out or explore my work!  
-<!-- Add links when ready -->
-[LinkedIn](#) • [Portfolio](#)
+### 🗄️ **SQL**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>](https://www.mysql.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>](https://www.postgresql.org/)
+- Complex queries (JOINs, CTEs, window functions)  
+- Data extraction, transformation & optimization  
+- Database design & normalization  
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
+### ☁️ **Microsoft Azure**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>](https://azure.microsoft.com/)
+- Azure SQL Database  
+- Azure Data Factory (pipelines & automation)  
+- Synapse Analytics (optional—update if needed)  
+- Cloud data storage & workflow optimization  
+
+---
+
+### 🐍 **Python**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>](https://www.python.org/)
+- Data analysis (Pandas, NumPy)  
+- Visualization (Matplotlib, Seaborn, Plotly)  
+- ETL & automation scripts  
+- Intro ML with Scikit-learn  
+
+---
+
+## 📫 **Let's Connect**
+- **GitHub:** https://github.com/your-username  
+- **LinkedIn:** *your-link*  
+- **Email:** *your-email*  
+
+---
+
+If you want, I can also add:  
+🔥 GitHub Stats Card  
+🌟 Streak Stats  
+🎨 Centered layout with icons  
+🎖️ Tech badges  
+🖼️ A custom banner  
+
+Just tell me!  
